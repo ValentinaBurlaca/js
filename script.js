@@ -55,7 +55,7 @@ let character = '13';
 let chToNum = Number(character);
 alert(chToNum);
 
-//Численное преобразование
+//Логическое преобразование
 alert(Boolean('5'));
 alert(Boolean(0));
 alert(Boolean('0'));
